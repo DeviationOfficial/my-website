@@ -2222,7 +2222,7 @@ input, select, textarea {
 		}
 
 			#main > section.dark {
-				color: #18a9ce;
+				color: #ddd;
 				color: rgba(255, 255, 255, 0.75);
 			}
 
@@ -2231,12 +2231,12 @@ input, select, textarea {
 				}
 
 				#main > section.dark strong {
-					color: #17e439;
+					color: #fff;
 					border-color: inherit;
 				}
 
 				#main > section.dark a {
-					color: #ccda0c;
+					color: #fff;
 					border-color: inherit;
 				}
 
@@ -2256,15 +2256,15 @@ input, select, textarea {
 			}
 
 			#main > section.two {
-				background-color: #1ac5c5;
+				background-color: #f5fafa;
 			}
 
 			#main > section.three {
-				background-color: #630fd1;
+				background-color: #ecf1f1;
 			}
 
 			#main > section.four {
-				background-color: #d7ee0a;
+				background-color: #e8edec;
 			}
 
 /* Wide */
