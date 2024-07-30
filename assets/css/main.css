@@ -2134,18 +2134,21 @@ input, select, textarea {
 			padding-left: 0;
 		}
 
-			#nav ul li a {
-				display: block;
-				padding: 0.5em 1.5em 0.5em 1.5em;
-				color: rgba(255, 255, 255, 0.5);
-				text-decoration: none;
-				outline: 0;
-				border: 0;
-				-moz-transition: none;
-				-webkit-transition: none;
-				-ms-transition: none;
-				transition: none;
-			}
+		#nav ul li a {
+			display: block;
+			padding: 0.5em 1.5em;
+			color: rgba(255, 255, 255, 0.5);
+			text-decoration: none;
+			outline: 0;
+			border: 0;
+			transition: color 0.3s, text-shadow 0.3s; /* Adding transition for smooth effect */
+		}
+		
+		/* Hover Effect */
+		#nav ul li a:hover {
+			color: #fff; /* Change text color on hover */
+			text-shadow: 0 0 8px rgba(255, 255, 255, 0.7); /* Glow effect */
+		}
 
 				#nav ul li a span {
 					position: relative;
