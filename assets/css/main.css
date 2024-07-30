@@ -2231,12 +2231,12 @@ input, select, textarea {
 				}
 
 				#main > section.dark strong {
-					color: #fff;
+					color: #17e439;
 					border-color: inherit;
 				}
 
 				#main > section.dark a {
-					color: #fff;
+					color: #ccda0c;
 					border-color: inherit;
 				}
 
@@ -2256,15 +2256,15 @@ input, select, textarea {
 			}
 
 			#main > section.two {
-				background-color: #f5fafa;
+				background-color: #1ac5c5;
 			}
 
 			#main > section.three {
-				background-color: #ecf1f1;
+				background-color: #630fd1;
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				background-color: #d7ee0a;
 			}
 
 /* Wide */
